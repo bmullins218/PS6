@@ -25,7 +25,7 @@ public class PersonDomainModel {
 	protected Integer postalCode;
 	protected String city;
 	protected Date birthday;
-
+//for the commit
 	public PersonDomainModel() {
 		this.PersonID = UUID.randomUUID();
 		this.postalCode = 0;
